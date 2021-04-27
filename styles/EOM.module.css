@@ -1,0 +1,17 @@
+.main{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 50px;
+}
+
+.employeeOfTheMonth{
+    text-align: center;
+}
+
+.employeeOfTheMonth img {
+width: 250px;
+border-radius: 100%;
+}
